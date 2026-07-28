@@ -15,7 +15,7 @@ To integrate `AppxiomCore` into your Xcode project:
 2. Go to **File** -> **Add Package Dependencies...**
 3. Paste the URL of this repository into the search field:
    ```text
-   https://github.com/basilgregory/appxiom-core-spm.git
+   https://github.com/basilgregory/appxiom-spm.git
    ```
 
 ## Usage
