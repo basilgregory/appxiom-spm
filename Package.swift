@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AppxiomCore",
-            url: "https://appxiom-objc.s3.us-west-1.amazonaws.com/production/appxiom-core/1.0.2/AppxiomCore.xcframework.zip",
-            checksum: "ad03e5b38f65c443edc306387c9296f201dffb1bff7bd74b9747275fe2c7c638"
+            url: "https://appxiom-objc.s3.us-west-1.amazonaws.com/production/appxiom-core/2.0.0/AppxiomCore.xcframework.zip",
+            checksum: "bde39a305d0ccfee33e7a59587f45e3d5c58fbca1babf6b85a1a174e8107853a"
         )
     ]
 )
