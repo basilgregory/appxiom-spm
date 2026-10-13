@@ -4,7 +4,7 @@ Real-time bug reporting for mobile apps. This repository distributes the pre-com
 
 ## Requirements
 
-- **iOS:** 13.0 or later
+- **iOS:** 15.0 or later
 - **Xcode:** 15.0 or later (Swift 5.9+)
 
 ## Installation via Swift Package Manager (SPM)
